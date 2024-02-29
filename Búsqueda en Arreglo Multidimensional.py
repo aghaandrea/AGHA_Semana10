@@ -14,6 +14,7 @@ def buscar_valor(matriz, valor):
      [7,8,9]
      ]
 
+
 valor_a_buscar = 3
 encontrado, posicion = buscar_valor(mi_matriz, valor_a_buscar)
 
