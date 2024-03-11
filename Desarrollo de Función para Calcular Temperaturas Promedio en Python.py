@@ -26,9 +26,9 @@ def temperatura_promedio(datos_temperaturas):
 
 # Ejemplo de datos de temperaturas para 3 ciudades durante 4 semanas
 datos_temperaturas_ejemplo = {
-    'CiudadA': {'Semana1': [25, 28, 23], 'Semana2': [27, 26, 24], 'Semana3': [26, 29, 28], 'Semana4': [30, 32, 31]},
-    'CiudadB': {'Semana1': [18, 20, 19], 'Semana2': [22, 24, 23], 'Semana3': [17, 19, 20], 'Semana4': [21, 23, 22]},
-    'CiudadC': {'Semana1': [31, 30, 32], 'Semana2': [29, 28, 30], 'Semana3': [33, 32, 34], 'Semana4': [28, 27, 29]}
+    'CiudadA': {'Semana1': [31, 32, 33], 'Semana2': [30, 31, 32], 'Semana3': [31, 32, 33], 'Semana4': [30, 32, 31]},
+    'CiudadB': {'Semana1': [34, 35, 36], 'Semana2': [31, 32, 33], 'Semana3': [31, 32, 33], 'Semana4': [21, 23, 22]},
+    'CiudadC': {'Semana1': [37, 38, 39], 'Semana2': [29, 28, 30], 'Semana3': [33, 32, 34], 'Semana4': [28, 27, 29]}
 }
 
 # Calcula la temperatura promedio de cada ciudad
