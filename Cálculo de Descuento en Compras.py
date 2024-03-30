@@ -1,11 +1,12 @@
 #Cálculo de Descuento en Compras
-def calcular_descuento(monto_total, porcentaje_descuento=18):
+def calcular_descuento(monto_total, porcentaje_descuento=17
+                       ):
     """
     Calcula el descuento aplicando el porcentaje al monto total de la compra.
 
     Args:
     monto_total (float): Monto total de la compra.
-    porcentaje_descuento (float, optional): Porcentaje de descuento a aplicar. Por defecto es 18.
+    porcentaje_descuento (float, optional): Porcentaje de descuento a aplicar. Por defecto es 17.
 
     Returns:
     float: Monto del descuento calculado.
@@ -19,7 +20,8 @@ monto_compra1 = 210
 
 
 monto_compra2 = 210
-porcentaje_descuento2 = 18
+porcentaje_descuento2 = 17
+
 descuento2 = calcular_descuento(monto_compra2, porcentaje_descuento2)
 monto_final2 = monto_compra2 - descuento2
 
