@@ -28,7 +28,7 @@ monto_final2 = monto_compra2 - descuento2
 
 # Muestra los resultados
 print("Llamada 1:")
-print(f"Monto total de la compra: ${monto_compra1}")
+print(f"Monto totalTrabajo con Archivos de Texto en Python de la compra: ${monto_compra1}")
 
 print("Llamada 2:")
 print(f"Monto total de la compra: ${monto_compra2}")
