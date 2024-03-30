@@ -16,10 +16,11 @@ def calcular_descuento(monto_total, porcentaje_descuento=17
 
 
 # Llamadas a la función desde el programa principal
-monto_compra1 = 210
+monto_compra1 = 212
 
 
-monto_compra2 = 210
+
+monto_compra2 = 212
 porcentaje_descuento2 = 17
 
 descuento2 = calcular_descuento(monto_compra2, porcentaje_descuento2)
